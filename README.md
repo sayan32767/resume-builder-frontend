@@ -29,6 +29,20 @@ A React-based Resume Builder application that allows users to create, edit, and 
 - **Shadcn** - Component library for creating the forms and some other UI elements
 - **JavaScript (ES6+)** - Core programming language.
 
+
+## Screenshots
+
+<p align="center">
+  <img src="./src/public/screenshots/signup.png" width="100%" />
+  <img src="./src/public/screenshots/landing.png" width="100%" />
+  <img src="./src/public/screenshots/edit.png" width="100%" />
+  <img src="./src/public/screenshots/templates.png" width="100%" />
+  <img src="./src/public/screenshots/dashboard.png" width="100%" />
+  <img src="./src/public/screenshots/form.png" width="100%" />
+  <img src="./src/public/screenshots/preview.png" width="100%" />
+</p>
+
+
 ## Project Structure
 
 ```
